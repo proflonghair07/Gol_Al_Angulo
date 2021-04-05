@@ -1,0 +1,61 @@
+* {
+  font-family: "Noto Sans", sans-serif;
+  color: #190e44;
+}
+
+body {
+  background-color: #161433;
+}
+
+.navbar-custom {
+  background-color: #ede937 !important;
+}
+
+.lower-nav {
+  background-color: #d8d14f !important;
+}
+
+.jumbotron {
+  background-color: #d8d14f;
+  color: #190e44;
+}
+
+#blue-font-override {
+  color: #190e44 !important;
+}
+
+#main-title {
+  font-size: 3rem;
+}
+
+footer {
+  margin-top: 2rem;
+}
+
+.photography {
+  margin-top: 2rem;
+}
+
+.iframe {
+  margin-top: 2rem;
+}
+
+.card {
+  margin: 0 auto;
+  float: none;
+  margin-top: 2rem;
+  width: 95%;
+  background-color: #f7f2df;
+}
+
+#interview-question {
+  font-weight: bold;
+}
+
+.page-footer {
+  background-color: #d8d14f;
+}
+
+a:link {
+  text-decoration-skip-ink: auto !important;
+}
